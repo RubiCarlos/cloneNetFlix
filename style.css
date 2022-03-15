@@ -1,0 +1,220 @@
+body{
+    background-image: url("./photo.jpg");
+}
+
+.background{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    width: 450px;
+    height: 660px;
+    opacity: 75%;
+    border-radius: 10px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 314px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -600px;
+    position: relative;
+}
+
+.logo{
+    width: 267px;
+    margin-left: 40px;
+    margin-top: 23px;
+}
+
+.entrar{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+}
+
+.campo1{
+    height: 50px;
+    margin-top: 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+.campo2{
+    height: 50px;
+    margin-top: 16px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button{
+    height: 50px;
+    margin-top: 40px;
+    background-color: #e50914;
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.footer{
+    background-color: black;
+    opacity: 75%;
+    margin-top: 210px;
+    height: 300px;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    color: #737373;
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position: relative;
+    padding: 50px;
+    margin-left: 100px;
+    gap: 100px;
+    line-height: 30px;
+}
+
+.duvidas{
+    font-size: 16px;
+}
+
+.perguntas{
+    margin-top: 30px;
+    text-decoration: none;
+    color:#737373;
+}
+
+.cookies{
+    text-decoration: none;
+    color:#737373;
+}
+
+.centro{
+    margin-top: 55px;
+}
+
+.text{
+    display: flex;
+    position: relative;
+    text-align: left;
+    width: 314px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    flex-direction: column;
+    line-height: 17px;
+}
+
+.textface{
+    display: flex;
+    position: relative;
+    text-align: left;
+    width: 314px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    flex-direction: row;
+    line-height: 17px;
+    gap: 15px;
+    align-items: center;
+}
+
+.logoface{
+    width: 25px;
+}
+
+.text1{
+    font-size: 13px;
+    color: #737373;
+}
+
+.text2{
+    font-size: 16px;
+    color: #737373;
+}
+
+#net{
+    text-decoration: none;
+    color: white;
+}
+#net:hover{
+    text-decoration: underline;
+}
+
+.text3{
+    font-size: 13px;
+    color: #737373;
+}
+
+#net1{
+    text-decoration: none;
+}
+#net1:hover{
+    text-decoration: underline;
+}
+
+.firsttext{
+    display: flex;
+    flex-direction: row;
+    width: 314px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    color: #737373;
+    position: relative;
+    margin-top: 15px;
+    font-size: 16px;
+    justify-content: left;
+    align-items: center;
+}
+
+#ajuda{
+    text-decoration: none;
+    color: #737373;
+}
+#ajuda:hover{
+    text-decoration: underline;
+}
+
+.help{
+    margin-left: 47px;
+    font-size: 13px;
+}
+
+#place2{
+    padding: 0% 8%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    text-align: left;
+}
+
+#place1{
+    padding: 0% 8%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    text-align: left;
+}
+
+.select{
+    font-size: 16px;
+    border: 1px solid #737373;
+    background-color: black;
+    border-radius: 5%;
+    margin-left: 150px;
+    padding: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: -10px;
+    color:#737373;
+    width: 140px;
+    text-align: center;
+}
